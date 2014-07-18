@@ -1,0 +1,200 @@
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+563
+455
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\companionCube.png
+215
+197
+----End   ClassItem----
+----Start ClassItem----
+Floor
+StaticWorld
+WorldSet
+image\floor.png
+113
+476
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+633
+60
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+780
+160
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+640
+550
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+687
+110
+----End   ClassItem----
+----Start ClassItem----
+SpinningCog
+InteractiveWorld
+WorldSet
+image\spinningCog.png
+300
+-10
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\woodenDoor.png
+60
+20
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+111
+317
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+740
+400
+----End   ClassItem----
+----Start ClassItem----
+Floor
+StaticWorld
+WorldSet
+image\floor.png
+900
+220
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+950
+480
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\companionCube.png
+2001
+334
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2099
+202
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1967
+555
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1713
+258
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1758
+98
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1995
+129
+----End   ClassItem----
+----Start ClassItem----
+SpinningCog
+InteractiveWorld
+WorldSet
+image\spinningCog.png
+1737
+596
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1700
+454
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\woodenDoor.png
+1544
+364
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1938
+250
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1571
+99
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+1548
+610
+----End   ClassItem----

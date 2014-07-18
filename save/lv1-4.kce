@@ -1,0 +1,4353 @@
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+40
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+340
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+940
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+1240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+1540
+300
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+1840
+300
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+2140
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+2440
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+2740
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3040
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3340
+350
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3730
+350
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3940
+350
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4530
+350
+angle=135
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+4240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+4540
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+4840
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+5140
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+5440
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+5740
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+6040
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+6340
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+6640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+6940
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+7240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+7540
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+7840
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+8140
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+8440
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+8740
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+9040
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+9340
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+9640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+9940
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+10240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+10540
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+10840
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+11140
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+11440
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+11740
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+12040
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+12340
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+12640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+12940
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+13240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+13540
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+13840
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+14140
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+14440
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+14740
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+15040
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+15340
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+15640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+15940
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+16240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+16540
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+16840
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+17140
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+17440
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+17740
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+18040
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+18340
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+18640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+18940
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+19240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+19540
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+19840
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+20140
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+20440
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+20740
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+21040
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+21340
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+21640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+21940
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+22240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+22540
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+22840
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+23140
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+23440
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+23740
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+24040
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+24340
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+24640
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+24940
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+25240
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+25530
+390
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+40
+390
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+40
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+1240
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+1540
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+1840
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+2140
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+2440
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+2740
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3040
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+4240
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+4540
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+4840
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+5140
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+5440
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+5740
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+6040
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+6340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+6640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+6940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+7240
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+7540
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+7840
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+8140
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+8440
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+8740
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+9040
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+9340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+9640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+9940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+10240
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+10540
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+10840
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+11140
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+11440
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+11740
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+12040
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+12340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+12640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+12940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+13240
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+13540
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+13840
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+14140
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+14440
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+14740
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+15040
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+15340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+15640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+15940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+16240
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+16540
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+16840
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+17140
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+17440
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+17740
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+18040
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+18340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+18640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+18940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+19240
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+19540
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+19840
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+20140
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+20440
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+20740
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+21040
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+21340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+21640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+21940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+22240
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+22540
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+22840
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+23140
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+23440
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+23740
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+24040
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+24340
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+24640
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+24940
+720
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+25240
+720
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+830
+610
+angle=30
+----End   ClassItem----
+----Start ClassItem----
+sign_powerSupply
+Image
+kalacool/sango/image/sign/lv1-4/sign_powerSupply.png
+image\sign\lv1-4\sign_powerSupply.png
+662
+561
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+680
+630
+key=1
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+850
+534
+key=1
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+830
+660
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+830
+400
+angle=330
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+830
+350
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+850
+460
+key=1
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+950
+630
+key=2
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1050
+370
+angle=330
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1080
+430
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1140
+430
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\world\dynamicWorld\companionCube.png
+1080
+460
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\world\dynamicWorld\companionCube.png
+1170
+460
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\world\dynamicWorld\companionCube.png
+1260
+460
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1070
+540
+key=2
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1150
+540
+key=2
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1030
+560
+angle=30
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1030
+610
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1000
+660
+angle=30
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1200
+430
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1260
+430
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1320
+430
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1230
+540
+key=2
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1310
+540
+key=2
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1070
+640
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1140
+640
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1210
+640
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1280
+640
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1340
+610
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1390
+550
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\world\dynamicWorld\box.png
+1350
+510
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+1390
+510
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1400
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1460
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1520
+570
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1380
+430
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1440
+430
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1490
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1550
+370
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1640
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1580
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1850
+450
+key=3
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1550
+450
+key=3
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1640
+450
+key=3
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+1720
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1760
+450
+key=3
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1700
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1760
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1820
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1880
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1990
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1930
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2050
+570
+angle=120
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1940
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+4
+Monster
+MonsterSpawnWavesClass
+image\monster\slime.png
+1570
+310
+wave=1
+xL=0
+xR=10000
+----End   ClassItem----
+----Start ClassItem----
+4
+Monster
+MonsterSpawnWavesClass
+image\monster\slime.png
+1620
+310
+wave=1
+xL=0
+xR=10000
+----End   ClassItem----
+----Start ClassItem----
+4
+Monster
+MonsterSpawnWavesClass
+image\monster\slime.png
+1780
+310
+wave=1
+xL=0
+xR=10000
+----End   ClassItem----
+----Start ClassItem----
+4
+Monster
+MonsterSpawnWavesClass
+image\monster\slime.png
+1830
+310
+wave=1
+xL=0
+xR=10000
+----End   ClassItem----
+----Start ClassItem----
+4
+Monster
+MonsterSpawnWavesClass
+image\monster\slime.png
+1870
+310
+wave=1
+xL=0
+xR=10000
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1710
+370
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1760
+370
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1910
+370
+----End   ClassItem----
+----Start ClassItem----
+MonsterSpawnZone
+InteractiveWorld
+MechanismSet
+image\Mechanism\monsterSpawnZone.png
+1940
+340
+wave=1
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+1990
+480
+key=3
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+1860
+630
+key=3
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+1930
+350
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+1910
+320
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+1550
+320
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+1990
+350
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+1710
+320
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+1760
+320
+----End   ClassItem----
+----Start ClassItem----
+MonsterSpawnZone
+InteractiveWorld
+MechanismSet
+image\Mechanism\monsterSpawnZone.png
+2350
+340
+wave=2
+----End   ClassItem----
+----Start ClassItem----
+4
+Monster
+MonsterSpawnWavesClass
+image\monster\slime.png
+1840
+590
+wave=2
+xL=0
+xR=10000
+----End   ClassItem----
+----Start ClassItem----
+4
+Monster
+MonsterSpawnWavesClass
+image\monster\slime.png
+1750
+590
+wave=2
+xL=0
+xR=10000
+----End   ClassItem----
+----Start ClassItem----
+4
+Monster
+MonsterSpawnWavesClass
+image\monster\slime.png
+1640
+590
+wave=2
+xL=0
+xR=10000
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+2180
+370
+key=6
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2050
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2110
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2170
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2230
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2290
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2350
+460
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2430
+500
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2400
+460
+angle=135
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2440
+500
+angle=135
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+2100
+370
+key=5
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+2020
+370
+key=4
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+2340
+370
+key=7
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2430
+570
+key=7
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2450
+570
+key=6
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2470
+570
+key=5
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2490
+570
+key=4
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2430
+650
+key=7
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2450
+650
+key=6
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2470
+650
+key=5
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2490
+650
+key=4
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+870
+630
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+1780
+630
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+1700
+630
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+2260
+370
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2000
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2020
+480
+key=p
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+1940
+630
+key=p
+----End   ClassItem----
+----Start ClassItem----
+warning
+Image
+kalacool/sango/image/gameBackground/others/warning.png
+image\gameBackground\others\warning.png
+2570
+630
+----End   ClassItem----
+----Start ClassItem----
+knifemoInCageStatic
+Image
+kalacool/sango/image/gameBackground/others/knifemoInCageStatic.png
+image\gameBackground\others\knifemoInCageStatic.png
+2630
+620
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2450
+560
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+2470
+530
+angle=315
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+2430
+560
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+2510
+560
+----End   ClassItem----
+----Start ClassItem----
+warning
+Image
+kalacool/sango/image/gameBackground/others/warning.png
+image\gameBackground\others\warning.png
+2750
+630
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+2940
+470
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2840
+520
+angle=45
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2810
+560
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2840
+570
+key=8
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2860
+570
+key=8
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2880
+570
+key=8
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+2900
+570
+key=8
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2860
+560
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2910
+500
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2870
+490
+angle=45
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2910
+440
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2910
+380
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+2910
+360
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+3020
+470
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+3100
+470
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+3180
+470
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+2920
+560
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3200
+560
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3430
+530
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+MonsterSpawnZone
+InteractiveWorld
+MechanismSet
+image\Mechanism\monsterSpawnZone.png
+3590
+340
+wave=3
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3380
+560
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3320
+560
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3260
+560
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3460
+700
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+3260
+470
+key=9
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+3490
+520
+key=9
+angle=330
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+3530
+590
+key=9
+angle=150
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3530
+660
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3580
+630
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3630
+600
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3680
+570
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+3950
+540
+key=10
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+3870
+540
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+4030
+540
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3816
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3870
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3920
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3980
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4040
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4100
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+4100
+360
+key=10
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+4100
+440
+key=10
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3730
+540
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3480
+500
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3530
+470
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3580
+440
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3680
+380
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3630
+410
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4160
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4220
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4340
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4280
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4370
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+4190
+540
+key=11
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+4110
+540
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+4270
+540
+key=12
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+4340
+440
+key=11
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+4340
+360
+key=11
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4610
+430
+angle=315
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4650
+470
+angle=135
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4570
+390
+angle=315
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+4420
+360
+key=12
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+4420
+440
+key=12
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4690
+510
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4750
+510
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4800
+480
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4720
+700
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4770
+670
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4820
+640
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4820
+470
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4870
+610
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5070
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4920
+580
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4970
+550
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5020
+520
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4870
+440
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4920
+410
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4970
+380
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5020
+350
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5130
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5190
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5250
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5310
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5370
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5430
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5490
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5550
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5710
+550
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5660
+520
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5610
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+5090
+540
+key=13
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+5250
+540
+key=14
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+5490
+540
+key=15
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+5170
+540
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+5330
+540
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+5410
+540
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+5240
+360
+key=13
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+5240
+440
+key=13
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+5400
+360
+key=14
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+5640
+360
+key=15
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+5400
+440
+key=14
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+5640
+440
+key=15
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+5570
+540
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+3510
+680
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+4350
+540
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+3780
+520
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5710
+370
+angle=120
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5660
+340
+angle=120
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5760
+400
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5810
+430
+angle=120
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5760
+580
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5810
+610
+angle=120
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5860
+640
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5860
+460
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5910
+670
+angle=120
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5960
+700
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5910
+490
+angle=120
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5960
+520
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6010
+550
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+6230
+640
+key=16
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+6230
+560
+key=16
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6070
+550
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6130
+550
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6190
+550
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6250
+550
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+6160
+460
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+6080
+460
+key=16
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+6240
+460
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6310
+550
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6370
+550
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6430
+550
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6490
+550
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6550
+550
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6610
+550
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6670
+550
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+6320
+460
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+6400
+460
+key=17
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+6480
+460
+key=18
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+6560
+460
+key=19
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+6550
+560
+key=17
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+6630
+560
+key=18
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+6710
+560
+key=19
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+6550
+640
+key=17
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+6630
+640
+key=18
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+6710
+640
+key=19
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+6640
+460
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6720
+520
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6720
+700
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6770
+670
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6770
+490
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6820
+460
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6820
+640
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6870
+430
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7020
+340
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6970
+370
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6920
+400
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6920
+580
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6970
+550
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+6870
+610
+angle=60
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7020
+520
+angle=240
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7290
+360
+key=20
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7290
+440
+key=20
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7072
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7130
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7190
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7250
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7310
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+7220
+540
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+7140
+540
+key=20
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+7300
+540
+key=21
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+7380
+540
+key=22
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+7460
+540
+key=23
+----End   ClassItem----
+----Start ClassItem----
+PowerGenerator
+InteractiveWorld
+MechanismSet
+image\Mechanism\Trigger_PowerGenerator.png
+7540
+540
+key=24
+----End   ClassItem----
+----Start ClassItem----
+warning
+Image
+kalacool/sango/image/gameBackground/others/warning.png
+image\gameBackground\others\warning.png
+3400
+630
+----End   ClassItem----
+----Start ClassItem----
+warning
+Image
+kalacool/sango/image/gameBackground/others/warning.png
+image\gameBackground\others\warning.png
+4460
+420
+----End   ClassItem----
+----Start ClassItem----
+warning
+Image
+kalacool/sango/image/gameBackground/others/warning.png
+image\gameBackground\others\warning.png
+5680
+420
+----End   ClassItem----
+----Start ClassItem----
+warning
+Image
+kalacool/sango/image/gameBackground/others/warning.png
+image\gameBackground\others\warning.png
+6750
+590
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7370
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7430
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7490
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7550
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7450
+360
+key=21
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7530
+360
+key=22
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7610
+360
+key=23
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7690
+360
+key=24
+----End   ClassItem----
+----Start ClassItem----
+BrokenPowerGenerator
+Image
+kalacool/sango/image/gameBackground/others/BrokenPowerGenerator.png
+image\gameBackground\others\BrokenPowerGenerator.png
+7620
+540
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7610
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7670
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7450
+440
+key=21
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7530
+440
+key=22
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7610
+440
+key=23
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+PowerDoor
+InteractiveWorld
+MechanismSet
+image\Mechanism\Receiver_PowerDoor.png
+7690
+440
+key=24
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\world\interactiveWorld\woodenDoor.png
+7740
+440
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7780
+360
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7780
+420
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7730
+520
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7780
+460
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+sign_shotgun
+Image
+kalacool/sango/image/sign/lv1-4/sign_shotgun.png
+image\sign\lv1-4\sign_shotgun.png
+3220
+620
+----End   ClassItem----
+----Start ClassItem----
+99
+Monster
+MonsterSpawnWavesClass
+image\monster\knifemo.png
+3030
+610
+wave=3
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4400
+520
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+3840
+630
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+4140
+630
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3860
+640
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4410
+640
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+4410
+670
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+3860
+670
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+5060
+630
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+5360
+630
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5080
+640
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5080
+670
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5630
+640
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+5630
+670
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+7110
+630
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+7410
+630
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7130
+640
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7130
+660
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7670
+640
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+7670
+660
+----End   ClassItem----
+----Start ClassItem----
+CheckDoor
+StaticWorld
+WorldSet
+image\world\staticWorld\portal.png
+3140
+640
+----End   ClassItem----
+----Start ClassItem----
+sign_chkdoor
+Image
+kalacool/sango/image/sign/lv1-4/sign_chkdoor.png
+image\sign\lv1-4\sign_chkdoor.png
+2994
+633
+----End   ClassItem----
+----Start ClassItem----
+sign_slowBoss
+Image
+kalacool/sango/image/sign/lv1-4/sign_slowBoss.png
+image\sign\lv1-4\sign_slowBoss.png
+3585
+495
+----End   ClassItem----

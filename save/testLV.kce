@@ -1,0 +1,166 @@
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+0
+350
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+180
+310
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+450
+350
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\world\dynamicWorld\box.png
+480
+180
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\world\dynamicWorld\companionCube.png
+470
+230
+----End   ClassItem----
+----Start ClassItem----
+SupShootFaster
+Supplement
+SupplementSet
+image\shootFaster.jpg
+380
+310
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\monster\cannon.png
+30
+360
+name=null
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+0
+440
+----End   ClassItem----
+----Start ClassItem----
+MonsterSlime
+Monster
+EnemySet
+image\monster\slime.png
+170
+390
+xL=100
+xR=110
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\world\staticWorld\thorn.png
+260
+390
+----End   ClassItem----
+----Start ClassItem----
+CheckDoor
+StaticWorld
+WorldSet
+image\world\staticWorld\portal.png
+240
+70
+----End   ClassItem----
+----Start ClassItem----
+SpinningTire
+InteractiveWorld
+WorldSet
+image\world\interactiveWorld\tire.png
+-130
+-40
+----End   ClassItem----
+----Start ClassItem----
+SpinningCog
+InteractiveWorld
+WorldSet
+image\world\interactiveWorld\spinningCog.png
+80
+-150
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\world\interactiveWorld\woodenDoor.png
+590
+190
+----End   ClassItem----
+----Start ClassItem----
+Drum
+InteractiveWorld
+WorldSet
+image\world\interactiveWorld\Drum.png
+530
+150
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\world\interactiveWorld\floatingFloor.png
+400
+420
+----End   ClassItem----
+----Start ClassItem----
+DisappearFloor
+InteractiveWorld
+MechanismSet
+image\Mechanism\disappearFloor.png
+330
+280
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\world\interactiveWorld\fireBall.png
+629
+66
+----End   ClassItem----
+----Start ClassItem----
+MonsterFireball
+Monster
+EnemySet
+image\monster\fireball.png
+575
+374
+xL=100
+xR=110
+----End   ClassItem----
+----Start ClassItem----
+DogFood
+Supplement
+SupplementSet
+image\Supplement\collectable\dogFood.png
+413
+228
+----End   ClassItem----

@@ -1,0 +1,454 @@
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+0
+0
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+10
+0
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+310
+0
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+610
+0
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+910
+0
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1210
+0
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1510
+0
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+0
+300
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+10
+590
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+304
+591
+angle=45
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+510
+800
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+800
+540
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+946
+540
+angle=30
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+520
+730
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+570
+730
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+400
+630
+angle=45
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+440
+670
+angle=45
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+620
+730
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+360
+590
+angle=45
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+570
+580
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+882
+449
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+762
+684
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+789
+639
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+816
+594
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+841
+549
+angle=300
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+670
+730
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+720
+730
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+670
+680
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+440
+590
+angle=45
+----End   ClassItem----
+----Start ClassItem----
+MonsterFireball
+Monster
+EnemySet
+image\fire3.png
+1070
+520
+xL=1782
+xR=2616
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1130
+585
+angle=30
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+510
+280
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+980
+160
+----End   ClassItem----
+----Start ClassItem----
+SupShootFaster
+Supplement
+SupplementSet
+image\shootFaster.jpg
+700
+180
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+1110
+100
+name="MoreLife"
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1200
+540
+angle=330
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1457
+391
+angle=330
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1714
+183
+angle=315
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1926
+184
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1810
+0
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2220
+0
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1920
+0
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\woodenDoor.png
+2150
+40
+----End   ClassItem----
+----Start ClassItem----
+SpinningTire
+InteractiveWorld
+WorldSet
+image\tire.png
+1410
+230
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1300
+530
+angle=330
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1350
+500
+angle=330
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1770
+210
+angle=315
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+520
+10
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+570
+10
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+620
+10
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+670
+10
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+720
+10
+angle=180
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+770
+10
+angle=180
+----End   ClassItem----

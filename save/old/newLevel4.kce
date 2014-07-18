@@ -1,0 +1,58 @@
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+0
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+300
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+600
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+630
+140
+angle=315
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+836
+140
+angle=225
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+900
+350
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\companionCube.png
+790
+230
+----End   ClassItem----

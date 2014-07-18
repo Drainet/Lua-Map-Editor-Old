@@ -1,0 +1,168 @@
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+-1
+354
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+60
+390
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+130
+390
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+200
+390
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+270
+390
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+340
+390
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+60
+460
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+130
+460
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+200
+460
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+270
+460
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+340
+460
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+60
+530
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+130
+530
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+200
+530
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+270
+530
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+340
+530
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+60
+600
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+130
+600
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+200
+600
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+270
+600
+----End   ClassItem----
+----Start ClassItem----
+FireBall
+InteractiveWorld
+WorldSet
+image\fireBall.png
+340
+600
+----End   ClassItem----

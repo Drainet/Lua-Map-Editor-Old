@@ -1,0 +1,496 @@
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+-130
+750
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+0
+750
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+0
+820
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+10
+970
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+20
+760
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+150
+0
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+150
+0
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+150
+80
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+150
+240
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+150
+400
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+150
+560
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+150
+600
+----End   ClassItem----
+----Start ClassItem----
+SupShootFaster
+Monster
+SupplementSet
+image\shootFaster.jpg
+290
+210
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+310
+970
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+440
+0
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+440
+80
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+440
+240
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+440
+400
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+440
+560
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+440
+600
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+440
+750
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+530
+760
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+610
+970
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+740
+750
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+890
+760
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+910
+970
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1030
+750
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1210
+980
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1210
+1120
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1210
+1280
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+1260
+760
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1320
+740
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1440
+1080
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1440
+1090
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1470
+1430
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1500
+1130
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1520
+1430
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1570
+870
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1570
+1020
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1710
+1270
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1820
+1430
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2000
+1120
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2000
+1190
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+2020
+1210
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2120
+1430
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+2230
+1210
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2300
+1130
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2310
+1190
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+2320
+1210
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2420
+1430
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2610
+1030
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2630
+1020
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2720
+1430
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2780
+1290
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2780
+1360
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2830
+1020
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2830
+1260
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2830
+1270
+----End   ClassItem----
+----Start ClassItem----
+MonsterCannon
+Monster
+EnemySet
+image\cannon.png
+3050
+1040
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\woodenDoor.png
+3050
+1110
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+3120
+1000
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+3120
+1100
+----End   ClassItem----

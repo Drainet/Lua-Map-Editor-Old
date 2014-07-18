@@ -1,0 +1,424 @@
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+0
+40
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+0
+40
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+0
+190
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+0
+350
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+290
+40
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+290
+350
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+550
+40
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+550
+490
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+560
+50
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+850
+340
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+860
+50
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+860
+340
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1150
+50
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1150
+340
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1150
+490
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1150
+640
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1150
+790
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1150
+940
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1150
+1090
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1160
+1240
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1410
+200
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1460
+1240
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1660
+350
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1660
+500
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1660
+650
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1660
+800
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1670
+950
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1760
+1240
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+1900
+1090
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+1920
+430
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+1920
+790
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1970
+100
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1970
+200
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1970
+350
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1970
+500
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1970
+650
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1970
+800
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1980
+100
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2060
+1240
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+2100
+600
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+2100
+940
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2280
+100
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2360
+350
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2360
+350
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2360
+490
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2360
+640
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2360
+790
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2360
+940
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2360
+1090
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2370
+100
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\woodenDoor.png
+2600
+200
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2670
+100
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2670
+200
+----End   ClassItem----

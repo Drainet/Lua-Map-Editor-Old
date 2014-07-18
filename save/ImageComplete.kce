@@ -1,0 +1,82 @@
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+307
+306
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\hor_floor.png
+0
+350
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+360
+350
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+308
+260
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+350
+250
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+310
+350
+----End   ClassItem----
+----Start ClassItem----
+S_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\S_hor_floor.png
+310
+250
+----End   ClassItem----
+----Start ClassItem----
+M_hor_floor
+StaticWorld
+WorldSet
+image\world\staticWorld\M_hor_floor.png
+300
+250
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube_Image
+Image
+kalacool/sango/image/world/dynamicWorld/companionCube.png
+image\world\dynamicWorld\companionCube.png
+360
+240
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\world\dynamicWorld\companionCube.png
+203
+238
+----End   ClassItem----

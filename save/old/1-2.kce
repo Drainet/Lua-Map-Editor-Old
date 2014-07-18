@@ -1,0 +1,472 @@
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+0
+40
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+0
+50
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+0
+200
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+0
+350
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+200
+150
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+200
+200
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+200
+250
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+200
+300
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+250
+150
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+250
+200
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+250
+250
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+250
+300
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+290
+40
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+300
+350
+----End   ClassItem----
+----Start ClassItem----
+CheckDoor
+StaticWorld
+WorldSet
+image\portal.png
+470
+260
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+510
+150
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+520
+180
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+520
+460
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+670
+260
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+730
+260
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+740
+570
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+760
+310
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+800
+570
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+850
+590
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+900
+620
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+950
+370
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+960
+680
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+950
+650
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1000
+670
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1170
+480
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1180
+790
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1250
+550
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1390
+590
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1400
+900
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1610
+700
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1620
+1010
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+1830
+810
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1850
+1120
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2070
+920
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2150
+1120
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2180
+770
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2180
+760
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\companionCube.png
+2222
+790
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2230
+610
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2230
+600
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\woodenDoor.png
+2247
+616
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2360
+770
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2403
+776
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2403
+846
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2450
+1120
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2460
+600
+----End   ClassItem----
+----Start ClassItem----
+leftTop_floor
+StaticWorld
+WorldSet
+image\leftTop_floor.png
+2660
+940
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2662
+938
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2700
+980
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2700
+1050
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2750
+610
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2750
+720
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2750
+830
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2750
+980
+----End   ClassItem----

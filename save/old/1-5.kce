@@ -1,0 +1,2862 @@
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+230
+1280
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+520
+1280
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+820
+230
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+820
+1280
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+1030
+1180
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1031
+670
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1031
+718
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1120
+230
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1110
+670
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1110
+719
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1290
+1100
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1120
+1280
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+1130
+400
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+1210
+820
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1221
+1100
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1221
+1148
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1300
+1100
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1300
+1150
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+1370
+1060
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1420
+230
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1420
+1280
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1411
+250
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1411
+300
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1490
+400
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1471
+580
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1471
+630
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1471
+680
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+WoodenDoor
+InteractiveWorld
+WorldSet
+image\woodenDoor.png
+1520
+250
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1540
+570
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1540
+720
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+1540
+1230
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1550
+580
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1550
+630
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1550
+680
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+1790
+810
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+1590
+1230
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+1640
+1230
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1710
+230
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1720
+1280
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1732
+990
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1732
+1070
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2080
+540
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1790
+530
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1800
+980
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+1800
+1130
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1810
+990
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1810
+1050
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1810
+1110
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+1810
+1170
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+1870
+280
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+1870
+330
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+1870
+380
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+1870
+430
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+1870
+480
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2000
+230
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2010
+680
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2020
+1280
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2200
+1080
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2200
+1130
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2200
+1180
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2200
+1230
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2250
+1080
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2250
+1130
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2250
+1180
+----End   ClassItem----
+----Start ClassItem----
+Box
+DynamicWorld
+WorldSet
+image\box.png
+2250
+1230
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2310
+680
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2242
+838
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2242
+888
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2300
+230
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2190
+690
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2210
+740
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2210
+690
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2190
+740
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1900
+590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1980
+540
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1900
+540
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1980
+590
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2310
+840
+----End   ClassItem----
+----Start ClassItem----
+par_floor
+StaticWorld
+WorldSet
+image\par_floor.png
+2310
+940
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2549
+333
+angle=210
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2320
+1570
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+2330
+920
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2326
+1502
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2386
+1502
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2606
+366
+angle=210
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2446
+1502
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2506
+1502
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+2530
+780
+----End   ClassItem----
+----Start ClassItem----
+floatingFloor
+InteractiveWorld
+WorldSet
+image\floatingFloor.png
+2530
+1080
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2659
+398
+angle=210
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2566
+1502
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2590
+230
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2620
+1280
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2720
+433
+angle=210
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2779
+467
+angle=210
+----End   ClassItem----
+----Start ClassItem----
+CompanionCube
+DynamicWorld
+WorldSet
+image\companionCube.png
+2769
+324
+angle=30
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2851
+695
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2851
+765
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2851
+875
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2851
+945
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2851
+1095
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+Thorn
+StaticWorld
+WorldSet
+image\thorn.png
+2851
+1165
+angle=270
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1100
+570
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+820
+240
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+820
+540
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+820
+680
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+230
+980
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1790
+400
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1800
+690
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1800
+590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1800
+540
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2090
+690
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2090
+740
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2080
+830
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2310
+1280
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2620
+1280
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2920
+990
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2920
+690
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2920
+390
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2920
+230
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2630
+230
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2417
+230
+angle=30
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+2663
+372
+angle=30
+----End   ClassItem----
+----Start ClassItem----
+CheckDoor
+StaticWorld
+WorldSet
+image\portal.png
+2070
+1097
+----End   ClassItem----
+----Start ClassItem----
+SpinningTire
+InteractiveWorld
+WorldSet
+image\tire.png
+2200
+580
+----End   ClassItem----
+----Start ClassItem----
+SpinningTire
+InteractiveWorld
+WorldSet
+image\tire.png
+1960
+430
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1480
+240
+angle=90
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+1490
+530
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1490
+410
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1590
+410
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1680
+410
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1690
+410
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1490
+430
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1590
+430
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1690
+430
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+230
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1030
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+930
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+830
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+730
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+630
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+530
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+430
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+330
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1190
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1120
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1250
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1350
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1950
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1850
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1750
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1650
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1550
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1450
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2050
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2150
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2210
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2210
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2210
+1480
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2310
+1580
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2210
+1580
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2410
+1580
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2510
+1580
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2610
+1580
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2630
+1480
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2630
+1380
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2630
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2720
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2810
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2900
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+1190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+1100
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+1000
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+800
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+700
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+900
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+600
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+500
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+400
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+300
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+230
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+420
+870
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+870
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+870
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+770
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+670
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+600
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+770
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+520
+770
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+420
+770
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+680
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+600
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+520
+670
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+320
+770
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+220
+770
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2730
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2830
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2710
+1580
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2730
+1490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2830
+1490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2810
+1590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2930
+1490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2900
+1590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2110
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2110
+1490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2110
+1590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3000
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+500
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+400
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+300
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+230
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+500
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+400
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+1190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+1090
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3090
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+990
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+890
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+790
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3020
+690
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+1190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+1090
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+1190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+1090
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+990
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+990
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+890
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+900
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+790
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+800
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3110
+690
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3200
+690
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+700
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+690
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3190
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+1490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+1490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2990
+1590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3080
+1590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3160
+1590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3260
+1590
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+1490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3290
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3220
+490
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3330
+1190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3330
+1090
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3330
+1000
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3330
+910
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3330
+810
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3330
+710
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3330
+610
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3320
+510
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3020
+390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3390
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3330
+1390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+130
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+130
+1190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+130
+1090
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+30
+1290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+30
+1190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+30
+1090
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+30
+990
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+30
+890
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+120
+770
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+30
+790
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+820
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+910
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1010
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1110
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1210
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1310
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1410
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1510
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1610
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1710
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1810
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2320
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2510
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2410
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2310
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2420
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2510
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2210
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2110
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2010
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1910
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2610
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2610
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2220
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2120
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2020
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1920
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1820
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1720
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1620
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1520
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1410
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+300
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1310
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1210
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1110
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1020
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+920
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+820
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+720
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+1440
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+200
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+620
+100
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+520
+870
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+320
+870
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+220
+870
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+120
+870
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+130
+970
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+130
+1040
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2710
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3120
+390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3030
+190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2810
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2910
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2710
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2810
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+2910
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3010
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3010
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3110
+130
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3110
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3130
+290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3120
+220
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3220
+390
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3320
+410
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3230
+290
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3310
+310
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3210
+120
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3220
+190
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3320
+210
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3310
+110
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3210
+30
+----End   ClassItem----
+----Start ClassItem----
+silver_block
+StaticWorld
+WorldSet
+image\silver_block.png
+3310
+10
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+230
+970
+----End   ClassItem----
+----Start ClassItem----
+hor_floor
+StaticWorld
+WorldSet
+image\hor_floor.png
+520
+970
+----End   ClassItem----

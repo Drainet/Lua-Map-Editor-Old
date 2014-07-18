@@ -1,0 +1,18 @@
+
+    level:insert(MonsterImageGroup)
+	
+	level:insert(level.layers["Image"])
+	
+    level:insert(level.layers["StaticWorld"])
+
+    level:insert(level.layers["DynamicWorld"])
+
+    level:insert(level.layers["InteractiveWorld"])
+
+    level:insert(level.layers["Supplement"])
+	
+    level:insert(level.layers["Monster"])
+
+    return level
+
+end -- CreateLevel

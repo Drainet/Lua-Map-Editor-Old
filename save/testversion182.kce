@@ -1,0 +1,313 @@
+----Start ClassItem----
+98
+Monster
+MonsterSpawnWavesClass
+image\monster\giantSlime.png
+796
+314
+wave=2
+xL=5000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+98
+Monster
+MonsterSpawnWavesClass
+image\monster\giantSlime.png
+669
+387
+wave=2
+xL=5000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+98
+Monster
+MonsterSpawnWavesClass
+image\monster\giantSlime.png
+639
+568
+wave=2
+xL=5000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+98
+Monster
+MonsterSpawnWavesClass
+image\monster\giantSlime.png
+640
+195
+wave=2
+xL=5000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+453
+343
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+485
+212
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+383
+299
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+313
+335
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+373
+418
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+453
+400
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+534
+338
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+499
+293
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+430
+306
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+414
+365
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+384
+356
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+383
+250
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+351
+238
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+1
+Monster
+MonsterSpawnWavesClass
+image\monster\fireball.png
+456
+264
+wave=1
+xL=1000
+xR=2000
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+870
+148
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+809
+146
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+553
+104
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+373
+117
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+233
+200
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+117
+419
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+274
+521
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+381
+558
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+452
+565
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+530
+547
+----End   ClassItem----
+----Start ClassItem----
+Box_Image
+Image
+kalacool/sango/image/world/dynamicWorld/box.png
+image\world\dynamicWorld\box.png
+584
+502
+----End   ClassItem----
+----Start ClassItem----
+DogFood
+Supplement
+SupplementSet
+image\Supplement\collectable\dogFood.png
+1014
+244
+starIndex=null
+----End   ClassItem----
+----Start ClassItem----
+DogFood
+Supplement
+SupplementSet
+image\Supplement\collectable\dogFood.png
+914
+254
+starIndex=null
+----End   ClassItem----
+----Start ClassItem----
+DogFood
+Supplement
+SupplementSet
+image\Supplement\collectable\dogFood.png
+859
+248
+starIndex=null
+----End   ClassItem----
